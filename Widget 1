@@ -1,0 +1,10 @@
+<script>
+
+function mainUpdate (type) {
+if (type == “weather”) {
+myElement.innerHTML == weather.temperature ;
+
+}
+}
+
+</script>
